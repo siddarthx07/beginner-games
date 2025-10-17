@@ -11,7 +11,7 @@ const player={
         y:myCanvas.height-40,
         width:30,
         height:25,
-        speed:10,
+        speed:8,
         dx:0,
         dy:0
     }
